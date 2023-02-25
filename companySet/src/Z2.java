@@ -1,4 +1,4 @@
-public class Zalano2 {
+public class Z2 {
 
     public static String solution(String S) {
         // Implement your solution here

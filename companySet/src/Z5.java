@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Zalano5 {
+public class Z5 {
 
     public static String solution(String s) {
         Stack<Character> st = new Stack<>();

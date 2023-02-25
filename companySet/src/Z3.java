@@ -1,9 +1,4 @@
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
-public class Zalando3 {
+public class Z3 {
     public static String solution(int AA, int AB, int BB) {
         // Implement your solution here
         StringBuilder sb = new StringBuilder();

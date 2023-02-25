@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Zalano4 {
+public class Z4 {
 
     public static String solution(String s) {
         //return constructString(1, s);

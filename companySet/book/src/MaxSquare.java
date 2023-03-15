@@ -41,9 +41,7 @@ public class MaxSquare {
         }
         Map<Timestamp, List<String>> finalMap = new HashMap<>();
         // date - 28.
-        for(String s : line) {
 
-        }
         return maxSquareLength * maxSquareLength;
 
     }

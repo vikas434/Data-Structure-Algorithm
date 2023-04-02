@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.Set;
 
 public class GetWhiteLength {
-    public static int f(int n, int m, List<List<Integer>> lists){
+    public static int getWhiteLength(int n, int m, List<List<Integer>> lists){
         Map<Integer, Set<Integer>> map = new HashMap<>();
         for(List<Integer> list: lists){
             int color = list.get(0);
